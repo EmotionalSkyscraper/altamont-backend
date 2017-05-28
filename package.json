@@ -1,0 +1,20 @@
+{
+  "name": "altamont-backend",
+  "version": "1.0.0",
+  "description": "altamont project REST api",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EmotionalSkyscraper/altamont-backend.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Inko Amifumi <inko.amifumi.14@gmail.com>",
+  "contributors": [
+    {"name": "reshnix", "email": "reshnix@example.com"},
+    {"name": "sanya", "email": "sanya@example.com"}
+  ],
+  "license": "MIT",
+  "private": true
+}
